@@ -7,15 +7,15 @@ date: 2020-04-30T00:00:00.000Z
 author: Rashed
 thumbnail: uploads/cleaning-cloth.jpeg
 ---
-**1. Blötlägg**
+##### **1. Blötlägg**
 
 Kanske ett tips lätt att glömma bort i all hast, men att blötlägga riktigt smutsig tvätt över natten kan vara avgörande för att det ska bli rent.
 
-**2.**Vinäger
+##### **2.** Vinäger
 
 ...tar effektivt bort fläckar från till exempel fett, ketchup, vin och kaffe. Fukta fläcken med vinäger, låt verka ett tag och skölj bort. Tvätta sedan som vanligt.
 
-**3. Schamponera!**
+##### **3. Schamponera!**
 
 Olika hudvårdsprodukter som kroppsolja eller bodylotion kan lämna fula fläckar (samt dra till sig annan smuts) vid kragen på tröjor och skjortor. Tips: Applicera shampoo på fläckarna innen det åker in i tvättmaskinen.
 
@@ -26,8 +26,6 @@ Har du möjlighet, häng din tvätt utomhus, det finns många fördelar med att 
 **5.**Häng vittvätten när det är som allra soligast, mitt på dagen. Solens strålar har en blekande effekt vilket kan hjälpa vittvätten att hålla sig vit.
 
 ![](https://cached-images.bonnier.news/bnl01/standard-article/78c28e60-25af-4b33-999e-13f47a2b9881/0d16ea26-7992-4629-9806-ec868009f26e/annan/0/500@80.jpg)
-
-
 
 **6. Undvik solblekning**
 
