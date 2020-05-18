@@ -1,5 +1,5 @@
 ---
-title: Hello hello
+title: Rätt sätt att tvätt
 intro: Kanske ett tips lätt att glömma bort i all hast, men att blötlägga
   riktigt smutsig tvätt över natten kan vara avgörande för att det ska bli rent.
   Vi har tipsen här!
