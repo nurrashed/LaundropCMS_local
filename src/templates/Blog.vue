@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="h-1/3 w-full">
-      <g-image class="mt-4 w-8/12 h-2/3 ml-64" src="~/assets/images/cleaning cloth.jpg"></g-image>
+      <g-image src="~/assets/images/cleaning cloth.jpg"></g-image>
     </div>
     <div class="container mx-auto">
       <h1 class="text-5xl text-center font-bold my-4 ">{{ $page.blog.title }}</h1>
