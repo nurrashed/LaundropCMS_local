@@ -19,7 +19,7 @@ Kanske ett tips lätt att glömma bort i all hast, men att blötlägga riktigt s
 
 Olika hudvårdsprodukter som kroppsolja eller bodylotion kan lämna fula fläckar (samt dra till sig annan smuts) vid kragen på tröjor och skjortor. Tips: Applicera shampoo på fläckarna innen det åker in i tvättmaskinen.
 
-**4. Torka tvätten utomhus**
+##### **4. Torka tvätten utomhus**
 
 Har du möjlighet, häng din tvätt utomhus, det finns många fördelar med att torka tvätten utomhus.
 
@@ -31,25 +31,25 @@ Har du möjlighet, häng din tvätt utomhus, det finns många fördelar med att 
 
 Motsatsen: Häng ut färgat och svart på eftermiddagen för att undvika att färgerna bleks.
 
-**7. Torka snabbare**
+##### **7. Torka snabbare**
 
 För att minimera torktiden, häng tvätten med ordentlig plats mellan.
 
-**8. Vind = mjukmedel**
+##### **8. Vind = mjukmedel**
 
 Att hänga tvätt när det fläktar lite är allra bäst, inte bara för att det torkar snabbare, utan även för att tvätten blir mjukare och inte så stel som när den hänger inne rakt upp och ner.
 
-**9. Få släta lakan**
+##### **9. Få släta lakan**
 
 Så släta lakan som möjligt utan att behöva mangla eller stryka får man om man låter lakanen hänga ute över natten och viker de på morgonen med ett litet uns fukt kvar.
 
 Foto: Jupiterimages
 
-**10. Släta lakan inomhus**
+##### **10. Släta lakan inomhus**
 
 Släta lakan utan att behöva mangla eller stryka om du inte kan hänga tvätten utomhus. Torktumla tills lite fukt återstår, vik ihop.
 
-**11. Behåll formen**
+##### **11. Behåll formen**
 
 För att behålla formen på tröjor och skjortor, häng i klädnypor upp och ner.
 
