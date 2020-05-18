@@ -7,7 +7,7 @@
           <g-image :src="blog.node.thumbnail" class="pt-4"></g-image>
           <p>{{ blog.node.intro }}</p>
         </div>
-        <g-link class="mt-4 block text-center py-2 rounded px-4 bg-primary text-white hover:bg-white hover:text-primary" :to="blog.node.path">SE MER</g-link>
+        <g-link class="mt-4 mb-4 block text-center py-1 rounded px-4 bg-primary text-white hover:bg-white hover:text-primary" :to="blog.node.path">SE MER</g-link>
       </div>
     </div>
   </Layout>
