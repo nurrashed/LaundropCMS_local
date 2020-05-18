@@ -1,5 +1,8 @@
 ---
 title: Hello hello
+intro: Kanske ett tips lätt att glömma bort i all hast, men att blötlägga
+  riktigt smutsig tvätt över natten kan vara avgörande för att det ska bli rent.
+  Vi har tipsen här!
 date: 2020-04-30T00:00:00.000Z
 author: Rashed
 thumbnail: uploads/cleaning-cloth.jpeg
