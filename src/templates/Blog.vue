@@ -1,12 +1,10 @@
 <template>
   <Layout>
-    <img class="object-cover object-top h-56 w-full" :src="$page.blog.thumbnail" alt="myimage" />
     <div class="h-1/3 w-full bg-red-300"></div>
     <div class="container mx-auto">
       <h1 class="text-5xl text-center font-bold my-4 ">{{ $page.blog.title }}</h1>
-      <div v-html="$page.blog.content"></div>
+      <div class="markdown" v-html="$page.blog.content"></div>
     </div>
-    <!-- <pre>{{ $page }}</pre> -->
   </Layout>
 </template>
 
@@ -22,6 +20,7 @@ query($id: ID!) {
     path
     title
     content
+    author
     thumbnail
     timeToRead
   }
@@ -29,4 +28,25 @@ query($id: ID!) {
 
 
 </page-query>
-<style lang="css" scoped></style>
+<style lang="css">
+
+.markdown p{
+  margin-bottom: 10px;
+  @apply text-gray-700;
+}
+
+.markdown h1, .markdown h2,.markdown h3,.markdown h4,.markdown h5{
+   @apply text-gray-800;
+}
+.markdown h1{
+  @apply text-6xl;
+  @apply font-bold;
+  @apply mb-4;
+}
+
+.markdown h5{
+  @apply text-xl;
+  @apply font-bold;
+  @apply mb-2;
+}
+</style>
