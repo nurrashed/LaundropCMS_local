@@ -1,5 +1,9 @@
 ---
 title: Kemtvättsguiden
+intro: Kemtvätt eller engelskans Dry Cleaning, är ett sätt att rengöra kläder
+  och textilier utan att använda vatten (eller i alla fall kraftigt minska
+  användandet av vatten). Det är dock inte “torrt” som i engelskan “dry” utan
+  tvättas i vätska och måste sedan torka.
 date: 2020-04-30T00:00:00.000Z
 author: Mirza
 thumbnail: uploads/frantisek-duris-v2ugjkqr-8w-unsplash.jpg
