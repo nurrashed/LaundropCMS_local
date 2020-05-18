@@ -51,7 +51,7 @@
 
 
 
-    <footer class="p-3 w-full bg-green-800">
+    <footer class="container mx-auto bg-green-800">
         <div class="container bg-grey-lighter p-8">
             <div class="sm:flex mb-4">
                 <div class="sm:w-1/4 h-auto">
