@@ -1,6 +1,7 @@
 ---
 title: Hello hello
 date: 2020-04-30T00:00:00.000Z
+author: Rashed
 thumbnail: uploads/cleaning-cloth.jpeg
 ---
 **1. Blötlägg**

@@ -1,9 +1,10 @@
 <template>
   <Layout>
-    <div class="container mx-auto grid grid-cols-3 gap-2">
+    <div class="container mx-auto grid grid-cols-3 gap-2 pt-8">
       <div v-for="blog in $static.allBlog.edges" :key="blog.id" class="w-full h-64 shadow border border-gray-100 p-4 flex flex-col justify-between">
         <div>
-          <h4 class="text-2xl font-bold">{{ blog.node.title }}</h4>
+          <h4 class="text-2xl font-bold text-gray-800">{{ blog.node.title }}</h4>
+          <g-image :src="blog.node.thumbnail" class="pt-4"></g-image>
           <p v-html="blog.node.content"></p>
         </div>
         <g-link class="mt-4 block text-center py-2 rounded px-4 bg-primary text-white" :to="blog.node.path">SE MER</g-link>

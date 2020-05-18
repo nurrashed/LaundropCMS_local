@@ -1,5 +1,6 @@
 <template>
   <Layout>
+    <img class="object-cover object-top h-56 w-full" :src="$page.blog.thumbnail" alt="myimage" />
     <div class="h-1/3 w-full bg-red-300"></div>
     <div class="container mx-auto">
       <h1 class="text-5xl text-center font-bold my-4 ">{{ $page.blog.title }}</h1>
